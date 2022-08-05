@@ -17,10 +17,6 @@ ingredients.forEach((element) => {
   navList.appendChild(listEl)
 });
 
-// const listEl = document.createElement('li')
-// listEl.classList.add('item')
-// listEl.textContent = 'fsassddd'
-// console.log(listEl)
 
 
 
